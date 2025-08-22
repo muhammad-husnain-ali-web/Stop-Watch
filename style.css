@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+}
+.stopwatch{
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+    border-radius: 50%;
+}
+
+.control{
+    margin: 20px;
+}
+button{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 7px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.stopColor{
+    background-color: red;
+}
+.startColor{
+    background-color: green;
+}
+.resetColor{
+    background-color: purple;
+}

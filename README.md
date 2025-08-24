@@ -33,7 +33,7 @@ It allows you to **start, stop, and reset** the timer with a clean and minimal U
 ## ⚡ Installation (Optional)
 If you want to clone and run locally:  
 ```bash
-git clone https://github.com/your-username/stopwatch.git
+git clone https://github.com/muhammad-husnain-ali-web/Stop-Watch.git
 cd stopwatch
 ```
 

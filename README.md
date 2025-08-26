@@ -13,7 +13,13 @@ It allows you to **start, stop, and reset** the timer with a clean and minimal U
 - Simple and responsive design  
 
 ---
+## 🛠️ Tech Stack
 
+- HTML5
+
+- CSS3
+
+- JavaScript (Vanilla JS)
 
 ---
 
